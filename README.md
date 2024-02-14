@@ -10,12 +10,14 @@ Termux can display images and gifs using sixel and iterm2 protocols.
 ## How to use
 For displaying images and gifs using `Sixel`
 do Type this command
-```pkg install libsixel```
+```
+pkg install libsixel
+```
 and use `img2sixel image.png`
 
 For displaying images using `iTerm2`
 do Type this command in Termux Monet
-```bash
+```shell
 source <(curl -fsSL https://raw.githubusercontent.com/SeifTechnone/imgcat/main/imgcat.sh)
 ```
 and use it with the command `imgcat image.png`
