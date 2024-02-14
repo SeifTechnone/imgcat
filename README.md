@@ -14,7 +14,7 @@ pkg install libsixel
 ```
 and use `img2sixel image.png`
 
---
+---
 
 For displaying images using `iTerm2`, do Type this command in Termux Monet
 ```shell
