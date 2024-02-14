@@ -1,6 +1,6 @@
 # imgcat
 ## Requires
-+ Termux Monet
++ [Termux Monet](https://github.com/KitsunedFox/termux-monet/releases)
 ## Features
 + One command setup
 
