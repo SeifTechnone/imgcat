@@ -1,4 +1,4 @@
-# displaying images in Termux
+# Displaying images in Termux
 Termux can display images and gifs using sixel and iterm2 protocols.
 ***
 ## Requires
