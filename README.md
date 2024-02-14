@@ -1,4 +1,5 @@
-# Command imgcat displaying images in Termux
+# Command imgcat
+# displaying images in Termux
 Termux can display images and gifs using sixel and iterm2 protocols.
 ***
 ## Requires
