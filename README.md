@@ -7,7 +7,7 @@ Termux can display images and gifs using sixel and iterm2 protocols.
 ## Features
 + One command setup
 
-# How to use
+## How to use
 For displaying images and gifs using `Sixel`
 do Type this command
 ```pkg install libsixel```
