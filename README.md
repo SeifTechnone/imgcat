@@ -17,6 +17,6 @@ and use `img2sixel image.png`
 ***
 For displaying images using `iTerm2`, do Type this command in Termux Monet
 ```shell
-source <(curl -fsSL https://raw.githubusercontent.com/SeifTechnone/imgcat/main/imgcat.sh)
+source <(curl -fsSL https://raw.githubusercontent.com/SeifTechnone/termux-image-display/main/termux-image-display.sh)
 ```
 and use it with the command `imgcat image.png`
